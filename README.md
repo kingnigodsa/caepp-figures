@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23690044.svg)](https://doi.org/10.5281/zenodo.23690044)
+
 # Carrier-assisted entanglement purification: code for the figures
 
 This repository contains the code that reproduces the numerical figures of
